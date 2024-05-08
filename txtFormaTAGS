@@ -1,14 +1,14 @@
-<p>	          Defines a paragraph
-<hr>	        Defines a thematic change in the content
-<br>	        Inserts a single line break
-<pre>	        Defines pre-formatted text
-<b>	          Defines bold text
-<em>	        Defines emphasized text 
-<i>	          Defines a part of text in an alternate voice or mood
-<small>	      Defines smaller text
-<strong>	    Defines important text
-<sub>	        Defines subscripted text
-<sup>	        Defines superscripted text
-<ins>	        Defines inserted text
-<del>	        Defines deleted text
-<mark>	      Defines marked/highlighted text
+<p>  to define a paragraph
+<hr>  to define a thematic change in the content
+<br>  to insert a single line break
+<pre>  to define pre-formatted text
+<b>  to define bold text
+<em>  to emphasized text
+<i>  to define a part of text in an alternative voice or moood
+<small>  to define smaller text
+<strong>  to define important text
+<sub>  to define subscripted text
+<sup>	to define superscripted text
+<ins>	to deefine inserted text
+<del>	to define deleted text
+<mark> to define marked/highlighted text
